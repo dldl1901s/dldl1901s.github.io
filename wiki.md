@@ -1,30 +1,55 @@
-# Topic Title
-My topic is about me. I just want to share some information of myself. I am from [Korea](https://en.wikipedia.org/wiki/Korea).
+# Your Name
 
-![korea](https://www.economist.com/img/b/1280/720/90/sites/default/files/images/print-edition/20200411_SRP099_0.jpg)
+your.name@example.com
 
-The flag of Korea looks like this.
+http://www.example.com
 
-![flag](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Korea_%281882%E2%80%931910%29.svg/1280px-Flag_of_Korea_%281882%E2%80%931910%29.svg.png)
+http://www.linkedin.com/in/yourname
 
-I hope you visit Korea someday. *Thank you*
+# Summary
+
+Quick Summary (not objective) specifically highlighting why you qualify for the job.
+
+# Work Experience (only last 10 years)
+
+## University Name 1 (City, State)
+
+* [University 1][] description, particularly if not well-known.*
+
+** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+
+Summary of your role
+
+- Accomplishment that contains **bold text**.
+- Accomplishment
+- Accomplishment
+- Accomplishment
+
+## University Name 2 (City, State)
+*[University 2][] description, particularly if not well-known.*
+
+** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+
+Summary of your role
+
+- Accomplishment that contains **bold text**.
+- Accomplishment
+- Accomplishment
+- Accomplishment
+
+## University Name 3 (City, State)
+* [University 3][] description, particularly if not well-known.*
+
+** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+
+Summary of your role
+
+- Accomplishment
+- Accomplishment
+- Accomplishment
+- Accomplishment
 
 
-## Section 1
-I have two cats. One is fat. The other is not fat but ugly.
-
-## Section 2
-I usually do work out in my free time.
-
-## Section 3
-My major is GIS which stands for Geography Information System.
-
-## See also
-- [cat](https://en.wikipedia.org/wiki/Cat)
-- [exercise](https://en.wikipedia.org/wiki/Exercise)
-- [gis](https://en.wikipedia.org/wiki/Geographic_information_system)
-
-## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
+[University 1]: http://www.univ1.edu
+[University 2]: http://www.univ2.edu
+[University 3]: http://www.univ3.edu
